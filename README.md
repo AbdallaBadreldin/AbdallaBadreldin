@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
-**AbdallaBadreldin/AbdallaBadreldin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Huawei
 - 🌱 I’m currently learning Android Development + Full stack Development
 - 👯 I’m looking to collaborate on Big Projects with experienced team
