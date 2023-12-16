@@ -8,11 +8,8 @@
 - 💬 Feel free to ask me about any of my projects
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/abdalla-badreldin/) OR Abdalla.Badr852@gmail.com
 - 😄 Pronouns: Abd - alla
-
-  
-
-
- 
-# My Github popularity 
+- 
+## Bring Your Laptop and let's change the world
+### My Github popularity 
 ![Visitor Count](https://profile-counter.glitch.me/AbdallaBadreldin/count.svg)
 
