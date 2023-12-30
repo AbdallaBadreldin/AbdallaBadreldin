@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Welcome Screen](https://camo.githubusercontent.com/e124e655892a927dd8b4c2697f9b20b53c3f38b462bc4669c135fe1abea0e375/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f634e6649716a704359317a7166614c6d64382f67697068792e676966)
+![Welcome GIF](https://github.com/AbdallaBadreldin/AbdallaBadreldin/assets/26011530/d2f8bfba-8762-44f2-b013-5d2c48504725)
 
 - 🔭 I’m currently working on: Feedback App
 - 🌱 I’m currently learning: Mobile Development + Backend Development
