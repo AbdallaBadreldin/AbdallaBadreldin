@@ -2,7 +2,7 @@
 
 <img src="https://github.com/AbdallaBadreldin/AbdallaBadreldin/assets/26011530/d2f8bfba-8762-44f2-b013-5d2c48504725" width="450" height="350">  <br>
 
-- 🔭 I’m currently working on: TE-TE App
+- 🔭 I’m currently working on: Flamingo Hyper Market and Oscar Togeather
 - 🌱 I’m currently learning: Mobile Development + Backend Development
 - 👯 I’m looking to: collaborate on big projects with experienced team
 - 💬 Feel free to contact me or ask me about any of my projects
